@@ -17,3 +17,13 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+
+.auto{
+  margin: 0 auto;
+}
+
+
+.green {
+  background-color: #b7d6b2;
+}
