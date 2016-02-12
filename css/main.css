@@ -27,3 +27,18 @@ html {
 .green {
   background-color: #b7d6b2;
 }
+
+@media only screen and (min-width: 1em) {
+  .feetmedium {
+    display: none;
+  }
+
+
+@media only screen and (min-width: 24em) {
+  .feet {
+    display: none;
+  }
+
+  .feetmedium {
+    display: block;
+  }
