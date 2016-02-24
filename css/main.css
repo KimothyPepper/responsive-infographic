@@ -35,10 +35,10 @@ html {
 
 
 @media only screen and (min-width: 24em) {
-  .feet {
+.feet {
     display: none;
-  }
+}
 
-  .feetmedium {
+.feetmedium {
     display: block;
-  }
+}
