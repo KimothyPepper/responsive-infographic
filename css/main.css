@@ -28,6 +28,136 @@ html {
   background-color: #b7d6b2;
 }
 
+.st0{
+  fill:#39B54A;
+}
+.st1{
+  fill:#62BD5D;
+}
+.st2{
+  fill:#009444;
+}
+.st3{
+  fill:#0AAA4B;
+}
+.st4{
+  fill:none;
+  stroke:#009444;
+  stroke-width:0.9554;
+  stroke-miterlimit:10;
+}
+.st5{
+  fill:#FFFFFF;
+}
+.st6{
+  fill:#00AEEF;
+}
+.st7{
+  fill:#050606;
+  stroke:#231F20;
+  stroke-width:0.4777;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-miterlimit:10;
+}
+.st8{
+  fill:#DBAFD1;
+  stroke:#DBAFD1;
+  stroke-width:0.4777;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-miterlimit:10;
+}
+.st9{
+  fill:#1C75BC;
+}
+.st10{
+  fill:none;
+  stroke:#1C75BC;
+  stroke-width:0.5377;
+  stroke-miterlimit:10;
+}
+.st11{
+  fill:#39B54A;
+  stroke:#39B54A;
+  stroke-width:0.4777;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-miterlimit:10;
+}
+.st12{
+  fill:#5FB3DD;
+}
+.st14{
+  font-size:12.087px;
+}
+.st15{
+  fill:none;
+}
+.st17{
+  font-size:5.8017px;
+}
+.st18{
+  fill:#231F20;
+}
+.st19{
+  fill:none;
+  stroke:#5FB3DD;
+  stroke-width:2.4174;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+}
+.st20{
+  fill:none;
+  stroke:#5FB3DD;
+  stroke-width:2.4174;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-dasharray:0.2504,4.0064;
+}
+.st21{
+  fill:#1C75BB;
+}
+.st22{
+  fill:none;
+  stroke:#1C75BB;
+  stroke-width:2.4174;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+}
+.st23{
+  fill:none;
+  stroke:#1C75BB;
+  stroke-width:2.4174;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-dasharray:0.2539,4.0631;
+}
+.st24{
+  fill:none;
+  stroke:#1C75BB;
+  stroke-width:2.4174;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-dasharray:0.2201,3.5215;
+}
+.st25{
+  fill:none;
+  stroke:#1C75BB;
+  stroke-width:2.4174;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-dasharray:0.2344,3.7496;
+}
+.st26{
+  fill:none;
+  stroke:#1C75BB;
+  stroke-width:2.4174;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+  stroke-dasharray:0.2786,4.4582;
+}
+
 @media only screen and (min-width: 1em) {
   .feetmedium {
     display: none;
