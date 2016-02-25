@@ -170,7 +170,13 @@ html {
   .boneman {
     display: none;
   }
+  .female {
+    display: none;
+  }
 
+  .male {
+    display: none;
+  }
 
 @media only screen and (min-width: 24em) {
 .feet {
@@ -181,14 +187,18 @@ html {
     display: block;
 }
 
-
-
 @media only screen and (min-width: 38em) {
   .bluefish {
     display: block;
-  }
-
+}
   .boneman {
     display: block;
-  }
 }
+
+  .female {
+    display: block;
+  }
+
+  .male {
+    display: block;
+  }
