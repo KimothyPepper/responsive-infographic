@@ -11,154 +11,176 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: 'Oswald', sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-
-.auto{
+.auto {
   margin: 0 auto;
 }
-
 
 .green {
   background-color: #b7d6b2;
 }
 
-.st0{
-  fill:#39B54A;
-}
-.st1{
-  fill:#62BD5D;
-}
-.st2{
-  fill:#009444;
-}
-.st3{
-  fill:#0AAA4B;
-}
-.st4{
-  fill:none;
-  stroke:#009444;
-  stroke-width:0.9554;
-  stroke-miterlimit:10;
-}
-.st5{
-  fill:#FFFFFF;
-}
-.st6{
-  fill:#00AEEF;
-}
-.st7{
-  fill:#050606;
-  stroke:#231F20;
-  stroke-width:0.4777;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-miterlimit:10;
-}
-.st8{
-  fill:#DBAFD1;
-  stroke:#DBAFD1;
-  stroke-width:0.4777;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-miterlimit:10;
-}
-.st9{
-  fill:#1C75BC;
-}
-.st10{
-  fill:none;
-  stroke:#1C75BC;
-  stroke-width:0.5377;
-  stroke-miterlimit:10;
-}
-.st11{
-  fill:#39B54A;
-  stroke:#39B54A;
-  stroke-width:0.4777;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-miterlimit:10;
-}
-.st12{
-  fill:#5FB3DD;
-}
-.st14{
-  font-size:12.087px;
-}
-.st15{
-  fill:none;
-}
-.st17{
-  font-size:5.8017px;
-}
-.st18{
-  fill:#231F20;
-}
-.st19{
-  fill:none;
-  stroke:#5FB3DD;
-  stroke-width:2.4174;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-}
-.st20{
-  fill:none;
-  stroke:#5FB3DD;
-  stroke-width:2.4174;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-dasharray:0.2504,4.0064;
-}
-.st21{
-  fill:#1C75BB;
-}
-.st22{
-  fill:none;
-  stroke:#1C75BB;
-  stroke-width:2.4174;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-}
-.st23{
-  fill:none;
-  stroke:#1C75BB;
-  stroke-width:2.4174;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-dasharray:0.2539,4.0631;
-}
-.st24{
-  fill:none;
-  stroke:#1C75BB;
-  stroke-width:2.4174;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-dasharray:0.2201,3.5215;
-}
-.st25{
-  fill:none;
-  stroke:#1C75BB;
-  stroke-width:2.4174;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-dasharray:0.2344,3.7496;
-}
-.st26{
-  fill:none;
-  stroke:#1C75BB;
-  stroke-width:2.4174;
-  stroke-linecap:round;
-  stroke-linejoin:round;
-  stroke-dasharray:0.2786,4.4582;
+.st0 {
+  fill: #39b54a;
 }
 
+.st1 {
+  fill: #62bd5d;
+}
+
+.st2 {
+  fill: #009444;
+}
+
+.st3 {
+  fill: #0aaa4b;
+}
+
+.st4 {
+  fill: none;
+  stroke: #009444;
+  stroke-width: 0.9554;
+  stroke-miterlimit: 10;
+}
+
+.st5 {
+  fill: #fff;
+}
+
+.st6 {
+  fill: #00aeef;
+}
+
+.st7 {
+  fill: #050606;
+  stroke: #231f20;
+  stroke-width: 0.4777;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
+}
+
+.st8 {
+  fill: #dbafd1;
+  stroke: #dbafd1;
+  stroke-width: 0.4777;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
+}
+
+.st9 {
+  fill: #1c75bc;
+}
+
+.st10 {
+  fill: none;
+  stroke: #1c75bc;
+  stroke-width: 0.5377;
+  stroke-miterlimit: 10;
+}
+
+.st11 {
+  fill: #39b54a;
+  stroke: #39b54a;
+  stroke-width: 0.4777;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
+}
+
+.st12 {
+  fill: #5fb3dd;
+}
+
+.st14 {
+  font-size: 12.087px;
+}
+
+.st15 {
+  fill: none;
+}
+
+.st17 {
+  font-size: 5.8017px;
+}
+
+.st18 {
+  fill: #231f20;
+}
+
+.st19 {
+  fill: none;
+  stroke: #5fb3dd;
+  stroke-width: 2.4174;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.st20 {
+  fill: none;
+  stroke: #5fb3dd;
+  stroke-width: 2.4174;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 0.2504, 4.0064;
+}
+
+.st21 {
+  fill: #1c75bb;
+}
+
+.st22 {
+  fill: none;
+  stroke: #1c75bb;
+  stroke-width: 2.4174;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.st23 {
+  fill: none;
+  stroke: #1c75bb;
+  stroke-width: 2.4174;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 0.2539, 4.0631;
+}
+
+.st24 {
+  fill: none;
+  stroke: #1c75bb;
+  stroke-width: 2.4174;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 0.2201, 3.5215;
+}
+
+.st25 {
+  fill: none;
+  stroke: #1c75bb;
+  stroke-width: 2.4174;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 0.2344, 3.7496;
+}
+
+.st26 {
+  fill: none;
+  stroke: #1c75bb;
+  stroke-width: 2.4174;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 0.2786, 4.4582;
+}
 @media only screen and (min-width: 1em) {
+
   .feetmedium {
     display: none;
   }
@@ -170,6 +192,7 @@ html {
   .boneman {
     display: none;
   }
+
   .female {
     display: none;
   }
@@ -178,27 +201,21 @@ html {
     display: none;
   }
 
+}
 @media only screen and (min-width: 24em) {
-.feet {
+
+  .feet {
     display: none;
-}
+  }
 
-.feetmedium {
+  .feetmedium {
     display: block;
-}
+  }
 
+}
 @media only screen and (min-width: 38em) {
-  .bluefish {
-    display: block;
-}
-  .boneman {
-    display: block;
-}
 
-  .female {
+  .bluefish, .boneman, .female, .male {
     display: block;
   }
-
-  .male {
-    display: block;
-  }
+}
