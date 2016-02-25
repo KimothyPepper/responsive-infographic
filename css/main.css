@@ -33,6 +33,14 @@ html {
     display: none;
   }
 
+  .bluefish {
+    display: none;
+  }
+
+  .boneman {
+    display: none;
+  }
+
 
 @media only screen and (min-width: 24em) {
 .feet {
@@ -41,4 +49,16 @@ html {
 
 .feetmedium {
     display: block;
+}
+
+
+
+@media only screen and (min-width: 38em) {
+  .bluefish {
+    display: block;
+  }
+
+  .boneman {
+    display: block;
+  }
 }
